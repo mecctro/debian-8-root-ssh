@@ -1,4 +1,4 @@
-# debian-8-root-ssh
+# debian-root-ssh
 STRICTLY FOR TESTING PURPOSES!
 
 Install
