@@ -7,4 +7,4 @@ Install
 -----
     wget https://raw.githubusercontent.com/mecctro/debian-8-root-ssh/master/root.sh
     chmod -x root.sh
-    ./root.sh
+    ssh root.sh
